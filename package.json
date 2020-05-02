@@ -1,0 +1,11 @@
+{
+        "name": "NutBot",
+        "version": "0.0.1",
+        "description": "nut.city Utility Bot",
+        "main": "index.js",
+        "author": "wolsne#0001",
+        "dependencies": {
+                "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+                "discord.js": "^12.2.0"
+        }
+}
